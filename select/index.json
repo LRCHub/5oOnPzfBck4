@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "That That",
+  "base_artist": "PSY",
+  "createdAt": "2025-12-30T06:54:10.255185Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That,That Is",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/01_That,That_Is_Yes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That That prod",
+      "artist": "PSY feat. Agust D",
+      "has_synced": true,
+      "path": "select/02_That_That_prod_PSY_feat._Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That That (prod. & feat. SUGA of BTS)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/03_That_That_(prod._&_feat._SUGA_of_BTS)_PSY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That That",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/04_That_That_Psy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That That (prod. & feat. SUGA of BTS)",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/05_That_That_(prod._&_feat._SUGA_of_BTS)_Psy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That, That Is",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/06_That,_That_Is_Yes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That, That Is (Studio Track)",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/07_That,_That_Is_(Studio_Track)_Yes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All That That Implies",
+      "artist": "Michael Penn",
+      "has_synced": true,
+      "path": "select/08_All_That_That_Implies_Michael_Penn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That That (prod.&feat. SUGA of BTS)",
+      "artist": "PSY feat. SUGA",
+      "has_synced": true,
+      "path": "select/09_That_That_(prod.&feat._SUGA_of_BTS)_PSY_feat._SUGA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That That (prod. & feat. SUGA of BTS) (feat. SUGA of BTS)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/10_That_That_(prod._&_feat._SUGA_of_BTS)_(feat._SUGA_of_BTS)_PSY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That That (prod. & feat. SUGA of BTS) (feat. SUGA)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/11_That_That_(prod._&_feat._SUGA_of_BTS)_(feat._SUGA)_PSY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That That (feat. SUGA)",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/12_That_That_(feat._SUGA)_PSY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That That (prod.",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/13_That_That_(prod._PSY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That That",
+      "artist": "PSY; SUGA",
+      "has_synced": true,
+      "path": "select/14_That_That_PSY;_SUGA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That That",
+      "artist": "PSY prod. & feat. SUGA of BTS",
+      "has_synced": true,
+      "path": "select/15_That_That_PSY_prod._&_feat._SUGA_of_BTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Phyu That That",
+      "artist": "L Lun Wah",
+      "has_synced": true,
+      "path": "select/16_A_Phyu_That_That_L_Lun_Wah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That That (prod. & feat. SUGA of BTS)",
+      "artist": "PSY, SUGA",
+      "has_synced": false,
+      "path": "select/pl_01_That_That_(prod._&_feat._SUGA_of_BTS)_PSY,_SUGA.txt"
+    }
+  ]
+}
